@@ -3,6 +3,12 @@
 `R` script to pull down the [College Scorecard](https://collegescorecard.ed.gov/data/)
 and put into workable format(s) for data analysis.
 
+## The file
+
+The TDE file I created [can be found here](https://dl.dropboxusercontent.com/u/15276022/scorecard.tde)
+
+__NOTE__:  This was just my first pass at creating the file.  There is room for improvement.
+
 ## Setup
 
 This assumes that you have `R` installed and access to [Tableau](http://tableausoftware.com/).
