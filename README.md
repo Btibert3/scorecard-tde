@@ -19,8 +19,8 @@ install.packages("dplyr")
 
 1.  Download the data with `R`
 2.  Unzip the files with `R`
-3.  Loop through the `csv` files and merge together
- - there is some basic data cleaning that needs to happen because the data types change
+3.  Loop through the `csv` files and merge together  
+  - there is some basic data cleaning that needs to happen because the data types change
 4.  save out the datasets into various `R` formats and csv
 5.  Read the `csv` into Tableau and extract the data to a `TDE`
 
