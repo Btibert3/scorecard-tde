@@ -35,6 +35,6 @@ step all together, but to me, this is the most straight-forward approach.
 ## Future Improvements
 
 - Port this script to `python` and leverage the tableau tde api.
---- using the desktop app to read the csv and create the TDE is painfully slow
+-- using the desktop app to read the csv and create the TDE is painfully slow
 - clean the Null values
 
